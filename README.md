@@ -4,7 +4,7 @@
 
 <h1 align="center" style="text-underline">Lumea</h1>
 
-<p align="center">Lumea is an open source web-based application designed to help users generate personalized study plans. Powered by Llama <b>3.1 8B Instruct</b>.</p>
+<p align="center">An open source web-based application designed to help users generate personalized study plans. Powered by <b>Meta Llama 3.1 8B Instruct</b>.</p>
 
 ## Key Features
 - **Custom Study Plans**
